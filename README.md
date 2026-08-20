@@ -80,6 +80,5 @@ All cybersecurity learning and practical activities in this portfolio are intend
 **Name:** Amale Awini Jerry  
 **Location:** Ghana (kintampo) 
 **Career Interest:** Cybersecurity  
-**Email:** amalejerry@gmail.com
-**LinkedIn:** [your LinkedIn link]  
+**Email:** amalejerry@gmail.com 
 **GitHub:** [your GitHub link]
