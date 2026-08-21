@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is Amale Awini Jerry, and I am an aspiring cybersecurity professional with a strong interest in protecting digital systems, networks, and information from cyber threats.
+I am called Amale Awini Jerry,I am 22 years old. And I am an aspiring cybersecurity professional with a strong interest in protecting digital systems, networks, and information from cyber threats.
 
 I am currently developing my foundational knowledge in cybersecurity, networking, Linux, information security, and cyber threat awareness. I am passionate about technology and eager to gain practical skills through hands-on learning and professional training.
 
@@ -81,4 +81,4 @@ All cybersecurity learning and practical activities in this portfolio are intend
 **Location:** Ghana (kintampo) 
 **Career Interest:** Cybersecurity  
 **Email:** amalejerry@gmail.com 
-**GitHub:** [your GitHub link]
+**GitHub:** https://github.com/amalejerry-awini/cybersecurity-beginner-portfolio
